@@ -10,7 +10,6 @@
   --filter-background-color: #f5f4fa;
   --logo-color: #000000;
   --portfolio-background-color: #eeeeee;
-  --transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 *::before,
@@ -512,6 +511,7 @@ header {
   border-radius: 4px;
 }
 
+/* examles section */
 .examples-card .link:hover,
 .examples-card .link:focus {
   box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06),
